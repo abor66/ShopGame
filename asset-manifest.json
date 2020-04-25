@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ShopGame/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ShopGame/static/js/main.d5b835db.chunk.js",
-    "main.js.map": "/ShopGame/static/js/main.d5b835db.chunk.js.map",
+    "main.js": "/ShopGame/static/js/main.5d58dbc4.chunk.js",
+    "main.js.map": "/ShopGame/static/js/main.5d58dbc4.chunk.js.map",
     "runtime-main.js": "/ShopGame/static/js/runtime-main.894a3464.js",
     "runtime-main.js.map": "/ShopGame/static/js/runtime-main.894a3464.js.map",
     "static/js/2.1285a567.chunk.js": "/ShopGame/static/js/2.1285a567.chunk.js",
     "static/js/2.1285a567.chunk.js.map": "/ShopGame/static/js/2.1285a567.chunk.js.map",
     "index.html": "/ShopGame/index.html",
-    "precache-manifest.1f14c8aae6d0df24fb4800184624a2db.js": "/ShopGame/precache-manifest.1f14c8aae6d0df24fb4800184624a2db.js",
+    "precache-manifest.fd499ed5dd94330249eb5ba935d5de48.js": "/ShopGame/precache-manifest.fd499ed5dd94330249eb5ba935d5de48.js",
     "service-worker.js": "/ShopGame/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/ShopGame/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.1285a567.chunk.js.LICENSE.txt": "/ShopGame/static/js/2.1285a567.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.894a3464.js",
     "static/js/2.1285a567.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.d5b835db.chunk.js"
+    "static/js/main.5d58dbc4.chunk.js"
   ]
 }
